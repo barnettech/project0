@@ -31,6 +31,15 @@ li::first-letter {
     border-style: double;
 }
 
+.column1, .column3  {
+    background-color:lavender;
+}
+
+.column2, .column4 {
+    background-color:lavenderblush;
+}
+
+
 @media only screen
     and (min-device-width : 375px)
     and (max-device-width : 667px) {
