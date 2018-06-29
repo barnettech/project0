@@ -1,0 +1,13 @@
+body h2, body table {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20%;
+  margin-right: 20%; }
+
+body h2 {
+  color: purple;
+  font-size: 34px; }
+body nav li {
+  font-size: 27px; }
+
+/*# sourceMappingURL=mysass.css.map */

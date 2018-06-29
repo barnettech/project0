@@ -1,0 +1,23 @@
+$color: purple;
+
+%margin-indent {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left:20%;
+  margin-right:20%;
+}
+
+body {
+
+    h2 {
+      @extend %margin-indent;
+      color: $color;
+      font-size: 34px;
+    }
+    nav li {
+      font-size: 27px;
+    }
+    table {
+      @extend %margin-indent;
+    }
+}

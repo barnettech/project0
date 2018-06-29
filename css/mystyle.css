@@ -51,4 +51,9 @@ li::first-letter {
       margin-left: 0px;
     }
 
+    body section table, body section h2 {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+
 }
