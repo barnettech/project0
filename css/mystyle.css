@@ -44,6 +44,13 @@ li::first-letter {
     background-color:lavenderblush;
 }
 
+#carouselExampleIndicators {
+ width: 50%;
+ margin-left: 20%;
+ margin-right: 20%;
+ max-height: 200px;
+ padding-bottom: 200px;
+}
 
 @media only screen
     and (min-device-width : 375px)
