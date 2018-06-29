@@ -30,3 +30,16 @@ li::first-letter {
 #theonetableimage {
     border-style: double;
 }
+
+@media only screen
+    and (min-device-width : 375px)
+    and (max-device-width : 667px) {
+    th, td {
+        font-size: 35px;
+    }
+
+    section {
+      margin-left: 0px;
+    }
+
+}
