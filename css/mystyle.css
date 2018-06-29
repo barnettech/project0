@@ -48,6 +48,7 @@ li::first-letter {
  width: 50%;
  margin-left: 20%;
  margin-right: 20%;
+ max-width: 700px;
  max-height: 200px;
  padding-bottom: 200px;
 }
