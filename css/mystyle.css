@@ -6,6 +6,11 @@ table, th, td {
    border: 1px solid black;
 }
 
+nav ul {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
 li {
     color: #002E6D;
     font-size: 18px;
