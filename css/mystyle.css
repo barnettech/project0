@@ -1,3 +1,24 @@
+#bg {
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    z-index:-5;
+    opacity: 0.4;
+}
+
+#bg img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            margin: auto;
+            min-width: 50%;
+            min-height: 50%;
+}
+
 section {
     margin-left: 100px;
 }
@@ -34,6 +55,9 @@ li::first-letter {
 
 #theonetableimage {
     border-style: double;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 25px;
 }
 
 .column1, .column3  {
@@ -42,6 +66,37 @@ li::first-letter {
 
 .column2, .column4 {
     background-color:lavenderblush;
+}
+
+.bootcolsm {
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+nav {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#jokesection {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.bootcolstuff {
+  margin-right: 20px !important;
+}
+
+.centeredimage {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 5%;
+}
+
+.centeredtext {
+    margin-left: 20%;
+    margin-right: 20%;
 }
 
 @media only screen
