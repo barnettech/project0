@@ -99,6 +99,10 @@ nav {
     margin-right: 20%;
 }
 
+table {
+    margin-bottom: 50px;
+}
+
 @media only screen
     and (min-device-width : 380px) {
   #carouselExampleIndicators {
